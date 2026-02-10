@@ -147,7 +147,7 @@ We illustrate this approach using the estimates for the ARCHER2 HPC system:
 
 In this case, we have a mix of data measured on the system (power draw of the compute nodes and power draw of the interconnect switches) and estimates from the vendor (storage systems and CDU). Here, the total power draw is estimated at 2,808 kW, there are 5,860 compute nodes and the unit of resource is nodeh so we can calculate the mean per node power draw (including all the components in the table) in the same way as we did for method (a) with `2,808 kW / 5,860 nodes = 0.480 kW/node` and use this to compute energy consumption based on how many nodeh we use.
 
-However, on ARCHER2 we also have the total compute node energy use available per job to users from the Slurm scheduler. The table above shows that the compute nodes contribute around 85% of the total power draw of ARCHER2 (of the components included) so an alternative method to compute the energy use is to use the measurement from the scheduler and add an additional 15% to cover the energy used by other components. This is, in fact, the methodology used for computing per job energy use on ARCHER2.
+However, on ARCHER2 we also have the total compute node energy use available per job to users from the Slurm scheduler. The table above shows that the compute nodes contribute around 85% of the total power draw of ARCHER2 (of the components included) so an alternative method to compute the energy use is to use the measurement from the scheduler and add an additional 18% to cover the energy used by other components. This is, in fact, the methodology used for computing per job energy use on ARCHER2.
 
 #### Add in energy from plant overheads
 
