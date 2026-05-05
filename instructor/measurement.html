@@ -616,43 +616,43 @@ energy overheads that need to be added on in addition to the measured
 power draw.</p>
 <p>We illustrate this approach using the estimates for the ARCHER2 HPC
 system:</p>
-<table style="width:100%;" class="table"><colgroup><col width="16%"><col width="16%"><col width="16%"><col width="16%"><col width="16%"><col width="16%"></colgroup><thead><tr class="header"><th>Component</th>
+<table style="width:100%;" class="table"><colgroup><col width="16%"><col width="16%"><col width="16%"><col width="16%"><col width="16%"><col width="16%"></colgroup><thead><tr><th>Component</th>
 <th align="right">Count</th>
 <th align="right">Loaded power draw per unit (kW)</th>
 <th align="right">Loaded power draw (kW)</th>
 <th align="right">% Total</th>
 <th>Notes</th>
-</tr></thead><tbody><tr class="odd"><td>Compute nodes</td>
+</tr></thead><tbody><tr><td>Compute nodes</td>
 <td align="right">5,860 nodes</td>
 <td align="right">0.41</td>
 <td align="right">2,400</td>
 <td align="right">85%</td>
 <td>Measured by on system counters</td>
-</tr><tr class="even"><td>Interconnect switches</td>
+</tr><tr><td>Interconnect switches</td>
 <td align="right">768 switches</td>
 <td align="right">0.24</td>
 <td align="right">240</td>
 <td align="right">9%</td>
 <td>Measured by on system counters</td>
-</tr><tr class="odd"><td>Lustre storage</td>
+</tr><tr><td>Lustre storage</td>
 <td align="right">5 file systems</td>
 <td align="right">8</td>
 <td align="right">40</td>
 <td align="right">1%</td>
 <td>Estimate from vendor</td>
-</tr><tr class="even"><td>NFS storage</td>
+</tr><tr><td>NFS storage</td>
 <td align="right">4 file systems</td>
 <td align="right">8</td>
 <td align="right">32</td>
 <td align="right">1%</td>
 <td>Estimate from vendor</td>
-</tr><tr class="odd"><td>Coolant distribution units</td>
+</tr><tr><td>Coolant distribution units</td>
 <td align="right">6 CDU</td>
 <td align="right">16</td>
 <td align="right">96</td>
 <td align="right">3%</td>
 <td>Estimate from vendor</td>
-</tr><tr class="even"><td>Total</td>
+</tr><tr><td>Total</td>
 <td align="right"></td>
 <td align="right"></td>
 <td align="right">2,808</td>
@@ -715,22 +715,22 @@ value over a longer period. The aggregate value is a simpler choice for
 a first estimate. The table below shows the approximate average carbon
 intensities for the different regions of the UK national grid for 2024
 ordered from lowest to highest.</p>
-<table class="table"><colgroup><col width="13%"><col width="40%"><col width="46%"></colgroup><thead><tr class="header"><th>Type</th>
+<table class="table"><colgroup><col width="13%"><col width="40%"><col width="46%"></colgroup><thead><tr><th>Type</th>
 <th>Regions</th>
 <th align="right">Carbon Intensity (gCO<sub>2</sub>e/kWh)</th>
-</tr></thead><tbody><tr class="odd"><td>Low</td>
+</tr></thead><tbody><tr><td>Low</td>
 <td>N. Scotland, S. Scotland, N.E. England, N.W. England</td>
 <td align="right">22 - 48</td>
-</tr><tr class="even"><td>Low Medium</td>
+</tr><tr><td>Low Medium</td>
 <td>N. Wales</td>
 <td align="right">77</td>
-</tr><tr class="odd"><td>Medium</td>
+</tr><tr><td>Medium</td>
 <td>E. England, London, W. Midlands, S.E. England, Yorkshire</td>
 <td align="right">108 - 135</td>
-</tr><tr class="even"><td>High Medium</td>
+</tr><tr><td>High Medium</td>
 <td>S. England, E. Midlands</td>
 <td align="right">186 - 203</td>
-</tr><tr class="odd"><td>High</td>
+</tr><tr><td>High</td>
 <td>S.W. England, S. Wales,</td>
 <td align="right">242 - 255</td>
 </tr></tbody></table></div>
@@ -770,43 +770,43 @@ have much higher embodied emissions than simpler components (pumps,
 fans, cables etc.).</p>
 <p>As an example, here is how the embodied emissions for ARCHER2 have
 been estimated:</p>
-<table style="width:100%;" class="table"><colgroup><col width="16%"><col width="16%"><col width="16%"><col width="16%"><col width="16%"><col width="16%"></colgroup><thead><tr class="header"><th>Component</th>
+<table style="width:100%;" class="table"><colgroup><col width="16%"><col width="16%"><col width="16%"><col width="16%"><col width="16%"><col width="16%"></colgroup><thead><tr><th>Component</th>
 <th align="right">Count</th>
 <th align="right">Estimated kgCO<sub>2</sub>e per unit</th>
 <th align="right">Estimated kgCO<sub>2</sub>e</th>
 <th align="right">% Total Scope 3</th>
 <th>References</th>
-</tr></thead><tbody><tr class="odd"><td>Compute nodes</td>
+</tr></thead><tbody><tr><td>Compute nodes</td>
 <td align="right">5,860 nodes</td>
 <td align="right">1,100</td>
 <td align="right">6,400,000</td>
 <td align="right">84%</td>
 <td>(1)</td>
-</tr><tr class="even"><td>Interconnect switches</td>
+</tr><tr><td>Interconnect switches</td>
 <td align="right">768 switches</td>
 <td align="right">280</td>
 <td align="right">150,000</td>
 <td align="right">2%</td>
 <td>(2)</td>
-</tr><tr class="odd"><td>Lustre HDD</td>
+</tr><tr><td>Lustre HDD</td>
 <td align="right">19,759,200 GB</td>
 <td align="right">0.02</td>
 <td align="right">400,000</td>
 <td align="right">6%</td>
 <td>(3)</td>
-</tr><tr class="even"><td>Lustre SSD</td>
+</tr><tr><td>Lustre SSD</td>
 <td align="right">1,900,800 GB</td>
 <td align="right">0.16</td>
 <td align="right">300,000</td>
 <td align="right">4%</td>
 <td>(3)</td>
-</tr><tr class="odd"><td>NFS HDD</td>
+</tr><tr><td>NFS HDD</td>
 <td align="right">3,240,000 GB</td>
 <td align="right">0.02</td>
 <td align="right">70,000</td>
 <td align="right">1%</td>
 <td>(3)</td>
-</tr><tr class="even"><td>Total</td>
+</tr><tr><td>Total</td>
 <td align="right"></td>
 <td align="right"></td>
 <td align="right">7,320,000</td>
@@ -1182,7 +1182,7 @@ emissions.</li>
   "identifier": "https://carpentries-incubator.github.io/green-software-hpc/instructor/measurement.html",
   "dateCreated": "2026-02-04",
   "dateModified": "2025-09-16",
-  "datePublished": "2026-04-28"
+  "datePublished": "2026-05-05"
 }
 
   </script><script>
