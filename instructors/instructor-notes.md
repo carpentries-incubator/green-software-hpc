@@ -38,6 +38,7 @@ expected with the lesson content.
 - [Measurement 1: Estimating Emissions (pptx)](L6-measurement-estimating-emissions.pptx)
 - [Measurement 2: HPC-CI (pptx)](L7-measurement-hpcci.pptx)
 - [Reducing Emissions (pptx)](L8-reducing-emissions.pptx)
+- [Responsible Computing Plans (pptx)](L9-ResponsibleComputing.pptx)
 
 ## Learner Profiles and Pathways
 
