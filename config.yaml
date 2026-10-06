@@ -21,13 +21,13 @@ keywords: 'software, data, lesson, environment'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'beta'
+life_cycle: 'stable'
 
 # License of the lesson materials (recommended CC-BY 4.0)
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries-incubator/green-software-hpc'
+source: 'https://github.com/EPCCed/2026-10-02_green-hpc_cambridge'
 
 # Default branch of your lesson
 branch: 'main'
@@ -66,8 +66,10 @@ episodes:
 - hardware-efficiency.md
 - measurement.md
 - reducing-emissions.md
+- responsible-computing.md
+- example_RCP.md
 - next-steps.md
-# - renewable-energy.md
+
 
 # Information for Learners
 learners: 
