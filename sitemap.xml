@@ -1,219 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/06-containers-on-the-cloud.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/06-containers-on-the-cloud.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/08-orchestration.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/08-orchestration.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/404.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/CODE_OF_CONDUCT.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/LICENSE.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/about.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/about.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/advanced-containers.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/advanced-containers.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/afternoon-break.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/afternoon-break.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/aio.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/carbon-awareness.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/carbon-awareness.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/carbon-efficiency.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/carbon-efficiency.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/climate-commitments.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/climate-commitments.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/creating-container-images.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/creating-container-images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/discuss.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/discuss.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/docker-hub.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/docker-hub.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/docker-image-examples.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/docker-image-examples.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/e01-github-actions.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/e01-github-actions.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/e02-jekyll-lesson-example.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/e02-jekyll-lesson-example.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/energy-efficiency.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/energy-efficiency.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/hardware-efficiency.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/example_RCP.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/images.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/hardware-efficiency.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/index.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/06-containers-on-the-cloud.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/08-orchestration.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/06-containers-on-the-cloud.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/404.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/08-orchestration.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/LICENSE.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/about.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/advanced-containers.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/about.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/afternoon-break.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/advanced-containers.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/aio.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/afternoon-break.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/carbon-awareness.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/carbon-efficiency.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/carbon-awareness.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/climate-commitments.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/carbon-efficiency.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/creating-container-images.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/climate-commitments.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/discuss.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/creating-container-images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/docker-hub.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/discuss.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/docker-image-examples.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/docker-hub.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/e01-github-actions.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/docker-image-examples.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/e02-jekyll-lesson-example.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/e01-github-actions.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/energy-efficiency.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/e02-jekyll-lesson-example.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/hardware-efficiency.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/energy-efficiency.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/images.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/example_RCP.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/index.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/hardware-efficiency.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/instructor-notes.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/introduction.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/key-points.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/lunch-break.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/introduction.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/managing-containers.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/key-points.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/measurement.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/lunch-break.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/meet-docker.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/managing-containers.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/morning-break.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/measurement.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/next-steps.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/meet-docker.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/profiles.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/morning-break.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/reducing-emissions.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/next-steps.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/reference.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/profiles.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/reproduciblity.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/reducing-emissions.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor/running-containers.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/reference.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/instructor-notes.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/reproduciblity.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/introduction.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/responsible-computing.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/key-points.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor/running-containers.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/lunch-break.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/managing-containers.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/introduction.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/measurement.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/key-points.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/meet-docker.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/lunch-break.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/morning-break.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/managing-containers.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/next-steps.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/measurement.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/profiles.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/meet-docker.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/reducing-emissions.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/morning-break.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/reference.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/next-steps.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/reproduciblity.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/profiles.html</loc>
   </url>
   <url>
-    <loc>https://carpentries-incubator.github.io/green-software-hpc/running-containers.html</loc>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/reducing-emissions.html</loc>
+  </url>
+  <url>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/reproduciblity.html</loc>
+  </url>
+  <url>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/responsible-computing.html</loc>
+  </url>
+  <url>
+    <loc>https://EPCCed.github.io/2026-10-02_green-hpc_cambridge/running-containers.html</loc>
   </url>
 </urlset>
